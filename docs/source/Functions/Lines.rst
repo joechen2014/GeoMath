@@ -1,6 +1,8 @@
 Lines
 =====
 
+Testing
+
 
 The line statement is the basic statement for the Euclidean Geometry and for everything in geometry. Figures are formed by lines, distances are the length of lines and even more.
 Lines must be used to get general arguments, like angles, line equation, comparisons between to lines and etc.
@@ -8,7 +10,7 @@ Lines must be used to get general arguments, like angles, line equation, compari
 -----------------
 Creating the Line
 -----------------
-To start with a line you may want to run these commands that are below this statement.
+To start with a line you may want to run these commands that are below this statement. 
 
 .. py:function:: line.Line()
 
